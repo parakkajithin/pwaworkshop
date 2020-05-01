@@ -1,0 +1,22 @@
+.topBar{
+    background-color: #efeeec;
+    color: #2e2ed6; 
+    padding: 2px;
+}
+.newsCard{
+    margin-top: 10px; 
+    border: 1px solid #cccccc;
+}
+.newsCard>img{
+    width: 100%;
+}
+.newsBody{
+    padding: 7px;
+}
+.newsBody>p{
+    text-align: justify;
+}
+.newsFooter{
+    background-color:#cccccc; 
+    padding: 5px;
+}
